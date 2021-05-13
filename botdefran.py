@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 
-    # Mentalízate de que te vas a hacer rico siendo un puto influencer.
+    # Mentalízate de que te vas a hacer rico siendo un influencer.
 
 browser = webdriver.Chrome()
 browser.get("https://www.instagram.com/?hl=es")
