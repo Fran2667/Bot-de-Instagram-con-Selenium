@@ -22,8 +22,8 @@ login = browser.find_element_by_css_selector("button")
 
      # Pon tu nombre y contraseña.
 
-username.send_keys("skibidigamer")
-password.send_keys("26habbo67")
+username.send_keys("nombre")
+password.send_keys("contraseña")
 login.click()
 
 time.sleep(4)
